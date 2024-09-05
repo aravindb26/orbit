@@ -52,6 +52,6 @@
     "tsup": "^6.1.0"
   },
   "dependencies": {
-    "@typescript-eslint/utils": "^6.5.0"
+    "@typescript-eslint/utils": "^8.3.0"
   }
 }
